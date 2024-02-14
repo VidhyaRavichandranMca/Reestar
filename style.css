@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container1{
+    
+    background-color: black;
+    color: white;
+    text-align: center;
+     padding-top: 20px;
+    padding-bottom: 20px;
+    
+   margin-top: 15px;
+    margin-bottom: 15px;
+}
+.container2
+
+{
+    display:flex;
+    height: 100px;
+    align-items: center;
+    margin-top: 200px;
+    width: 70%;
+    height: 100%;
+    margin-top: 100px;
+    margin-left: 200px;
+    gap: 5px;
+
+    
+    
+}
+.navbar2 img{
+
+    display:flex;
+    height: 450%;
+    width: 100%;
+    align-items: center;
+    
+
+}
+.navbar3 img{
+    display: flex;
+    height: 450%;
+    width: 100%;
+    align-items: center;
+
+}
+.navbar4 img{
+    display: flex;
+    height: 450%;
+    width: 100%;
+
+}
+.navbar5 img{
+    display: flex;
+    height: 450%;
+    width: 100%;
+    text-align: center;
+    
+
+}
+.navbar2{
+    text-align: center;
+    border: solid black;
+    
+
+}
+.navbar3{
+    text-align: center;
+    border: solid black;
+    
+    
+}
+.navbar4{
+    text-align: center;
+    border: solid black;
+}
+.navbar5{
+    text-align: center;
+    border: solid black;
+}
+.navbar2 button{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 80px;
+}
+.navbar3 button{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 80px;
+}
+.navbar4 button{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 80px;
+}
+.navbar5 button{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 80px;
+}
+.container3{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    height: 185px;
+    
+}
+.navebar6 button{
+    background-color: yellow;
+    color: black;
+    width: 30%;
+    height: 25px;
+    margin-top: 15px;
+ 
+}
+.navebar6 h1{
+    margin-top: 15px;
+}
